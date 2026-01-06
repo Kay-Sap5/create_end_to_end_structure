@@ -23,4 +23,4 @@ for i in pipeline:
         print(f"File Created... {i}")
 
 
-os.remove('create_end_to_end_structure.py')
+
